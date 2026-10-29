@@ -1,0 +1,9 @@
+customtkinter
+pygame>=2.5
+vgamepad
+numpy
+soundcard
+hidapi
+scipy
+soundfile
+pyinstaller
